@@ -1,16 +1,23 @@
-# unit_converter
+# Unit Converter
 
-A new Flutter project.
+Welcome to the Unit Converter! This application allows users to easily convert between various units of measurement. Whether you need to convert length, weight, temperature, or volume, this app has you covered!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Multiple Units**: Convert between various units including length (meters, kilometers, miles), weight (grams, kilograms, pounds), temperature (Celsius, Fahrenheit, Kelvin), 
+- **User-Friendly Interface**: Simple and intuitive design for an enjoyable user experience.
+- **Real-Time Conversion**: See results instantly as you enter values.
+- **Responsive Design**: Works seamlessly on both mobile and desktop devices.
+![Screenshot 2024-10-31 005101](https://github.com/user-attachments/assets/0780c1e4-3087-425e-a250-9c4663a14874)
+![Screenshot 2024-10-31 005208](https://github.com/user-attachments/assets/874b33e5-2b87-420f-be85-8607ef6620ac)
+![Screenshot 2024-10-31 005222](https://github.com/user-attachments/assets/ee325a4c-96e5-400d-a302-5b8b7d6cf5fa)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dart
+- Flutter
+
+
+   
+
